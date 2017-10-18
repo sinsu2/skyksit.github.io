@@ -1,1 +1,3 @@
-# skyksit.github.io
+# 김병철 기술 블로그
+
+Kakao Tech 를 바탕으로 개인 기술 블로그를 만들었습니다.
