@@ -64,9 +64,8 @@ image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 
 google_analytics:
-  ua: 'UA-72007721-1'
+  ua: 'UA-108295858-1'
 facebook:
-  app_id: '1204347326263800'
   username: byeongcheol.kim
 google_plus:
   username: skyksit
