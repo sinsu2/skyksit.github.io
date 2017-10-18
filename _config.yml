@@ -9,7 +9,7 @@ timezone: Asia/Seoul
 
 encoding: utf-8
 highlighter: rouge
-highlighter: pygments
+#highlighter: pygments
 
 repository: skyksit/skyksit.github.io
 
