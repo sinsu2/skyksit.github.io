@@ -1105,7 +1105,7 @@ body.author-template #cover p {
 #cover-author-image {
     position: absolute;
     left: 80px;
-    top: 78px; /* 78px = (310(#cover height) - 144(self height)) / 2 */
+    top: 28px; /* 28px = (200(#cover height) - 144(self height)) / 2 */
     width: 144px;
     height: 144px;
     border-radius: 100%;
