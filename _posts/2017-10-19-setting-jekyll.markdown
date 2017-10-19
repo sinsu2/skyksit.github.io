@@ -3,7 +3,7 @@ layout: post
 title: "Setting Jekyll"
 author: byoungchul.kim
 date: "2017-10-19 08:55:13 +0900"
-tags: [jekyll]
+tags: [jekyll,github]
 ---
 
 ## Jekyll 세팅
