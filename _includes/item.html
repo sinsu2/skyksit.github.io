@@ -2,7 +2,7 @@
     <a href="{{ post.url }}">
         <h3 class="post-title">{{ post.title }}</h3>
 {% if site.discus-identifier %}
- <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}#disqus_thread"></a>
+ <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}#disqus_thread" data-disqus-identifier="{{ post.id }}"></a>
 {% endif %}
         <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords: 75 }}</p>
     </a>
