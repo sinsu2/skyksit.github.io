@@ -42,5 +42,9 @@
     {% include google_plus_sdk.html %}
     {% endif %}
 {% endif %}
+
+{% if site.discus-identifier %}
+<script id="dsq-count-scr" src="//{{ site.discus-identifier }}.disqus.com/count.js" async></script>
+{% endif %}
 </body>
 </html>

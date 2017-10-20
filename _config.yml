@@ -71,3 +71,6 @@ google_plus:
   username: skyksit
 github_url:
   username: skyksit
+
+# Disqus
+discus-identifier: skyksit-github-io # add your discus identifier
