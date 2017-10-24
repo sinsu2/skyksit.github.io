@@ -63,14 +63,16 @@ author: skyksit@gmail.com
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 
-google_analytics:
-  ua: 'UA-108295858-1'
+#google_analytics:
+#  ua: 'UA-108295858-1'
 facebook:
   username: byeongcheol.kim
 google_plus:
   username: skyksit
 github_url:
   username: skyksit
+google_tag:
+  ua: GTM-NZ7M7K3
 
 # Disqus
 discus-identifier: skyksit-github-io # add your discus identifier
