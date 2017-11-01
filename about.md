@@ -26,9 +26,9 @@ sitemap: yes
 
 * NS홈쇼핑 차세대 시스템 구축 - 플랫폼 영역 팀장 (2013~2015)
 
-      구축범위 : e-Commerce 온라인 쇼핑몰, 모바일 쇼핑 서비스, 전문APP 구축
+구축범위 : e-Commerce 온라인 쇼핑몰, 모바일 쇼핑 서비스, 전문APP 구축
 
-      사용솔루션 : IBM Websphere Commerce, IBM Worklight, ORACLE DB, ImageQ, Diver5, Wiselog, Smartoffer, EMS, PMS, Easypay
+사용솔루션 : IBM Websphere Commerce, IBM Worklight, ORACLE DB, ImageQ, Diver5, Wiselog, Smartoffer, EMS, PMS, Easypay
 
 *
 
