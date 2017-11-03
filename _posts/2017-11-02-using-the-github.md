@@ -37,9 +37,8 @@ comments : true
 * Step 10. Push 된 내역이 반영되면 끝
   * ![push_end](/files/contents_imgs/sourcetree_push_ending.png)
 
-## 깃허브 가이드 학습하기
+## 참조사이트
+* [도전 Contributor](http://jjeong.tistory.com/1023)
 * [깃허브 가이드](https://guides.github.com/)
-*
-
-## Markdown 문법 학습하기
+* [깃허브 Help](https://help.github.com/categories/bootcamp/)
 * [Markdown 문법 학습하기](https://guides.github.com/features/mastering-markdown/)
