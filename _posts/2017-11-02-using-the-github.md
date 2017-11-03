@@ -26,9 +26,16 @@ comments : true
   * SourceTree 나 GitHub Desktop 을 이용해서 Github Repository 와 연결한다
 * Step 4. SourceTree 나 GitHub Desktop 을 이용해서 개발용 Branch 를 생성
 * Step 5. 개발용 Branch 에서 코딩 시작
-* Step 6. 개발이 완료되면 Master Branch 와 Merge
-* Step 7. Merge 된 Master Branch 를 Github 로 Push 하여 적용
-
+* Step 6. 개발이 완료되면 Master Branch 와 Diff를 이용해 비교하기
+  * ![diff](/files/contents_imgs/sourcetree_diff.png)
+* Step 7. 비교된 내용으로 Patch 생성하기
+  * ![patch](/files/contents_imgs/sourcetree_patch.png)
+* Step 8. Master Branch 로 checkout 해서 개발용 Branch를 Merge
+  * ![merge](/files/contents_imgs/sourcetree_merge.png)
+* Step 9. Merge 된 Master Branch 를 Github 로 Push 하여 적용
+  * ![push](/files/contents_imgs/sourcetree_push.png)
+* Step 10. Push 된 내역이 반영되면 끝
+  * ![push_end](/files/contents_imgs/sourcetree_push_ending.png)
 
 ## 깃허브 가이드 학습하기
 * [깃허브 가이드](https://guides.github.com/)
