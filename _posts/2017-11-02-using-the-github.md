@@ -12,7 +12,27 @@ comments : true
 * Step 1. Git program 설치하기 - [Git Program Download](https://git-scm.com/)
 * Step 2. Git GUI Tool 설치하기 - [Git GUI Tool Download](https://git-scm.com/download/gui/win)
   * 추천 : SourceTree, GitHub Desktop
+  * SourceTree 한글설정은 도구>옵션>일반에서 ![SourceTree option](/files/contents_imgs/sourcetree_option_utf8.png) 설정
 * Step 3. Text Editor 설치하기 - [Atom Text Editor Download](https://atom.io/)
   * 추천 Packages : Markdown-preview, markdown-format
   * 참조문서 : [Atom 을 마크다운 에디터로 사용하기](http://futurecreator.github.io/2016/06/14/atom-as-markdown-editor/)
-* Step 4. 
+
+
+## 깃허브와 연결하기
+* Step 1. 깃허브 계정생성하기 - [Github 가입](https://github.com/)
+* Step 2. 깃허브에서 Repository 만들기
+  * 참조 : [Create Repository](https://help.github.com/articles/create-a-repo/)
+* Step 3. 로컬 PC의 폴더와 깃허브 Repository 연결하기
+  * SourceTree 나 GitHub Desktop 을 이용해서 Github Repository 와 연결한다
+* Step 4. SourceTree 나 GitHub Desktop 을 이용해서 개발용 Branch 를 생성
+* Step 5. 개발용 Branch 에서 코딩 시작
+* Step 6. 개발이 완료되면 Master Branch 와 Merge
+* Step 7. Merge 된 Master Branch 를 Github 로 Push 하여 적용
+
+
+## 깃허브 가이드 학습하기
+* [깃허브 가이드](https://guides.github.com/)
+*
+
+## Markdown 문법 학습하기
+* [Markdown 문법 학습하기](https://guides.github.com/features/mastering-markdown/)
