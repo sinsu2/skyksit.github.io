@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Github 사용하기"
+title:  "Github 연결해서 소스 적용하기"
 author: byoungchul.kim
 date: 2017-11-02 13:00:00 +0900
 tags: [github]
@@ -42,3 +42,4 @@ comments : true
 * [깃허브 가이드](https://guides.github.com/)
 * [깃허브 Help](https://help.github.com/categories/bootcamp/)
 * [Markdown 문법 학습하기](https://guides.github.com/features/mastering-markdown/)
+* [Atom 을 마크다운 에디터로 사용하기](http://futurecreator.github.io/2016/06/14/atom-as-markdown-editor/)
