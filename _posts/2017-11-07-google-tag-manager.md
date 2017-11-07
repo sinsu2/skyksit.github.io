@@ -14,8 +14,10 @@ comments : true
 ## 구글 교육사이트
 * 참조 : [애널리틱스 아카데미](https://analytics.google.com/analytics/academy/course/5)
 * 하단 언어선택을 한국어(KO) 선택
+
  ![한국어선택](/files/contents_imgs/gtm_1.png)
 * 신청버튼 누르고 강의 내용을 선택하면 강의를 볼 수 있음
+
  ![강의리스트](/files/contents_imgs/gtm_2.png)
 
 ## 평가시험 1
