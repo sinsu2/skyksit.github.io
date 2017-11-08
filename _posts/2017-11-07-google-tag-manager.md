@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "구글태그매니저 기초과정 평가정답"
+title:  "구글태그매니저 기초과정 평가시험 1"
 author: byoungchul.kim
 date: 2017-11-07 17:52:00 +0900
 tags: [gtm]
