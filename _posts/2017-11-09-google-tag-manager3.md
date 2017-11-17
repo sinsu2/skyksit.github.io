@@ -10,7 +10,7 @@ comments : true
 ## 구글 교육사이트
 * 참조 : [애널리틱스 아카데미](https://analytics.google.com/analytics/academy/course/5)
 
-## 평가시험 3
+## 평가시험 3323232s
 * 데이터 영역을 이용해 웹사이트의 정적 값을 Google 애널리틱스 맞춤 측정기준으로 전송하려는 경우 설정해야 하는 것은?
   * 데이터 영역
   * 데이터 영역 변수
