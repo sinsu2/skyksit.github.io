@@ -1,0 +1,25 @@
+From f3180f7da55192ad3d58ba1f5c66e59c561d1e57 Mon Sep 17 00:00:00 2001
+From: ricardo <skyksit@gmail.com>
+Date: Fri, 17 Nov 2017 15:43:15 +0900
+Subject: [PATCH] editing post
+
+---
+ _posts/2017-11-09-google-tag-manager3.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/_posts/2017-11-09-google-tag-manager3.md b/_posts/2017-11-09-google-tag-manager3.md
+index eeafbeb..8efb24b 100644
+--- a/_posts/2017-11-09-google-tag-manager3.md
++++ b/_posts/2017-11-09-google-tag-manager3.md
+@@ -10,7 +10,7 @@ comments : true
+ ## 구글 교육사이트
+ * 참조 : [애널리틱스 아카데미](https://analytics.google.com/analytics/academy/course/5)
+ 
+-## 평가시험 3
++## 평가시험 3323232s
+ * 데이터 영역을 이용해 웹사이트의 정적 값을 Google 애널리틱스 맞춤 측정기준으로 전송하려는 경우 설정해야 하는 것은?
+   * 데이터 영역
+   * 데이터 영역 변수
+-- 
+2.12.2.windows.2
+
